@@ -12,6 +12,12 @@ A collection of projects focused on **data analytics, web scraping, and visualiz
 
 **🔧 Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn  
 
+
+![image](https://github.com/user-attachments/assets/119e5ae5-9e4a-4362-bfdc-823f1aa9d4db)
+
+
+
+
 ---
 
 ### **2️⃣ Web Scraping & Analysis**  
@@ -20,6 +26,8 @@ A collection of projects focused on **data analytics, web scraping, and visualiz
 
 **🔧 Tech:** BeautifulSoup, Scrapy, Selenium, Pandas, NumPy  
 
+
+
 ---
 
 ### **3️⃣ MySQL & Tableau Data Visualization**  
@@ -27,6 +35,11 @@ A collection of projects focused on **data analytics, web scraping, and visualiz
   - 📖 **Blog:** [From SQL to Tableau](https://abhinav14rd.wordpress.com/2023/11/07/from-sql-queries-to-tableau-visualizations/)  
 
 **🔧 Tech:** MySQL, SQL Queries, Tableau  
+
+
+
+![image](https://github.com/user-attachments/assets/dfbddfcb-9ba1-4731-9ca4-8c7ea10917a0)
+
 
 ---
 
