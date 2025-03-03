@@ -1,0 +1,1 @@
+This folder contains the script that was run to get the jobs for titles data analyst, data scientist, product manager for the location San Francisco. It is an example of how the same script with different URL replaced gets the output in CSV file
