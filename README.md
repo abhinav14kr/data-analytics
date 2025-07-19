@@ -5,10 +5,11 @@ A collection of projects focused on **data analytics, web scraping, and visualiz
 ## 📂 Projects  
 
 ### **1️⃣ Data Analytics with Python**  
-- **MAANG PM Data** - Analyzing product manager roles in the Bay Area.  
+- **Big Tech PM Data** - Analyzing product manager roles in the Bay Area. 
+- **International Students in the U.S.** - Trends in student demographics.   
 - **Game of Data** - Data insights on *Game of Thrones*.  
-- **International Students in the U.S.** - Trends in student demographics.  
-- **Personal Expense Report** - Analyzing personal finance & spending.  
+
+
 
 **🔧 Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn  
 
