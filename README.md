@@ -1,6 +1,6 @@
 # 📊 Data Analytics & Web Scraping Projects  
 
-A collection of projects focused on **data analytics, web scraping, and visualization** using Python and MySQL-Tableau.  
+A collection of projects focused on **data analytics, web scraping, and visualization** using combination of Python libraries, MySQL database and Tableau business intelligence software.  
 
 ## 📂 Projects  
 
